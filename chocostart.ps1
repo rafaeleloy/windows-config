@@ -10,6 +10,7 @@ choco install chocolatey
 choco install googlechrome
 choco install 7zip
 choco install git
+choco install beyondcompare
 choco install vscode
 choco install steam
 choco install whatsapp
