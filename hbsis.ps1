@@ -7,25 +7,22 @@ choco install desktopicons-winconfig --params "'/Desktop:NO /UserFiles:NO /Contr
 choco install taskbar-winconfig --params "' /AUTOTRAY:YES /CORTANA:no /COMBINED:yes /AUTOTRAY:YES /STORE:yes /TASKVIEW:no /KEYBOARD:no /USEPOWERSHELL:yes'"
 
 choco install chocolatey
-choco install everything
 choco install googlechrome
+choco install firefox
 choco install 7zip
 choco install git
-choco install vcredist2017
-choco install cmder
+choco install python --pre
+choco install golang
 choco install vscode
 choco install whatsapp
 choco install sublimetext3
-choco install yumi
 choco install nodejs
 choco install spotify
-choco install openjdk
-choco install rufus
 choco install postman
-choco install beyondcompare
+choco install winmerge
 choco install postgresql
 choco install dbeaver
-choco install firacode
 choco install lightshot
+choco install burp-suite-free-edition
 
 choco install choco-cleaner 
